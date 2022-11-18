@@ -1,0 +1,13 @@
+.linkList {
+  display: flex;
+  justify-content: center;
+  gap: 5rem;
+  border-bottom: 1px solid #00a8ff80;
+  padding: 1rem 0rem;
+  margin: 0 12rem;
+}
+
+.linkNames {
+  text-decoration: none;
+  color: white;
+}

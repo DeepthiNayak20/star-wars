@@ -1,0 +1,19 @@
+.footerText {
+    color: #00bcd475;
+    font-size: 14px;
+}
+
+.footerContent {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2rem;
+    overflow: hidden;
+}
+
+.copyRight {
+    color: #ffffff57;
+    display: flex;
+    justify-content: center;
+}
