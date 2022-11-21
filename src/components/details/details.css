@@ -1,0 +1,21 @@
+.linkList {
+  display: flex;
+  justify-content: center;
+
+  border-bottom: 1px solid #00a8ff80;
+  overflow: auto;
+}
+
+.linkNames {
+  text-decoration: none;
+  color: white;
+  padding: 1rem;
+}
+
+.active {
+  background-color: #00a8ff63;
+}
+
+button:disabled {
+  color: rgba(255, 255, 255, 0.502);
+}
